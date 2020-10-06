@@ -52,7 +52,7 @@ Technologies that I used to develop this frontend app
 ```bash
 $ git clone https://github.com/eltonlazzarin/user-repo-finder.git
 
-$ cd frontend-challenge
+$ cd user-repo-finder
 ```
 
 **Follow the steps below**
@@ -73,7 +73,7 @@ $ yarn start
 # Clone your fork
 $ git clone https://github.com/eltonlazzarin/user-repo-finder.git
 
-$ cd frontend-challenge
+$ cd user-repo-finder
 
 # Create a branch with your feature
 $ git checkout -b your-feature
@@ -92,7 +92,7 @@ After your pull request is merged, you can delete your branch
 ```bash
 $ git clone https://github.com/eltonlazzarin/user-repo-finder.git
 
-$ cd frontend-challenge
+$ cd user-repo-finder
 
 $ yarn test
 ```
