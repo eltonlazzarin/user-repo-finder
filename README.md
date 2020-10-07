@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="center"> 
   Simple GitHub users finder build with ReactJS and TypeScript
 </h3>
 
